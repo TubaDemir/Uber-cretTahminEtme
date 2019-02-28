@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\bin\Debug\UcretTahminEtme.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\bin\Debug\UcretTahminEtme.exe
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\bin\Debug\UcretTahminEtme.pdb
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\obj\Debug\UcretTahminEtme.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\obj\Debug\UcretTahminEtme.exe
+c:\users\user\documents\visual studio 2015\Projects\Uber\UcretTahminEtme\obj\Debug\UcretTahminEtme.pdb
